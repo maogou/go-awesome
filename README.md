@@ -702,6 +702,7 @@
 - [Carbon](https://github.com/uniplaces/carbon) - Carbon 时间处理库的 Go 语言实现
 - [strftime](https://github.com/lestrrat-go/strftime) - 时间格式化
 - [dateparse](https://github.com/araddon/dateparse) - 解析任意未知格式的时间字符串
+- [period](https://github.com/maogou/period) - 计算时间区间的 交集-并集-差集
 
 
 ### 配置
